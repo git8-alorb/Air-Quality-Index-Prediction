@@ -12,11 +12,12 @@ Link:- https://app.cpcbccr.com/ccr/#/caaqm-dashboard-all/caaqm-landing/caaqm-com
 
 ## Model
 Here ARIMA model is used for the training and testing of data.<br/>
-/python_files/DTU_using_ARIMA.py:-    In this python file, the model is trained on DTU New Delhi dataset using ARIMA model and then tested on 70% of data. Next 7 days prediction                                         is also showed for the same model.
+/python_files/DTU_using_ARIMA.py:- <br/>
+In this python file, the model is trained on DTU New Delhi dataset using ARIMA model and then tested on 70% of data. Next 7 days prediction                                         is also showed for the same model.
 
-/python_files/AQI_pred_US_Embassy_ND_ARIMA.py:-  In this python file, the model is trained on whole US_embassy, ND dataset and then tested on 70% of the data. Next 7 days                                                          prediction is also showed for the same.
+/python_files/AQI_pred_US_Embassy_ND_ARIMA.py:- <br/> In this python file, the model is trained on whole US_embassy, ND dataset and then tested on 70% of the data. Next 7 days                                                          prediction is also showed for the same.
 
-/python_files/AQI_pred_US_Embassy_ND_ARIMA_Incremental_training.py:-  In this python file, the model is first trained on 66% of data and predicted next one data. Then the original                                               data corresponding to that predicted data is also taken along with original train and model is trained again and this is repeated                                                   till the last testing data.
+/python_files/AQI_pred_US_Embassy_ND_ARIMA_Incremental_training.py:-  <br/>In this python file, the model is first trained on 66% of data and predicted next one data. Then the original                                               data corresponding to that predicted data is also taken along with original train and model is trained again and this is repeated                                                   till the last testing data.
 
-For facesafe attendence work and detail ppt of above project refer this link:-
+For facesafe attendence work and detail ppt of above project refer this link:- <br/>
           Link:- https://drive.google.com/drive/folders/1XIhY5Y5-xcFBgqLW8TvFJBsrI4RVs8TH?usp=sharing
