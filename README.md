@@ -10,8 +10,8 @@ US_Embassy New Delhi dataset and DTU New Delhi dataset for particulate matter PM
 LInk:- https://app.cpcbccr.com/ccr/#/caaqm-dashboard-all/caaqm-landing/caaqm-comparison-data
 
 
-# Model
-Here ARIMA model is used for the training and testing of data.
+## Model
+Here ARIMA model is used for the training and testing of data.<br/>
 /python_files/DTU_using_ARIMA.py:-    In this python file, the model is trained on DTU New Delhi dataset using ARIMA model and then tested on 70% of data. Next 7 days prediction                                         is also showed for the same model.
 
 /python_files/AQI_pred_US_Embassy_ND_ARIMA.py:-  In this python file, the model is trained on whole US_embassy, ND dataset and then tested on 70% of the data. Next 7 days                                                          prediction is also showed for the same.
