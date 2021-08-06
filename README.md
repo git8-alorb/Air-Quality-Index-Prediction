@@ -6,8 +6,8 @@ The Air Quality Index is based on measurement of particulate matter (PM2.5 and 
 
 
 ## Dataset
-US_Embassy New Delhi dataset and DTU New Delhi dataset for particulate matter PM2.5 has been taken here for the trainig and prediction of AQI model. 
-LInk:- https://app.cpcbccr.com/ccr/#/caaqm-dashboard-all/caaqm-landing/caaqm-comparison-data
+US_Embassy New Delhi dataset and DTU New Delhi dataset for particulate matter PM2.5 has been taken here for the trainig and prediction of AQI model. <br/>
+Link:- https://app.cpcbccr.com/ccr/#/caaqm-dashboard-all/caaqm-landing/caaqm-comparison-data
 
 
 ## Model
